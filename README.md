@@ -5,6 +5,7 @@
     <title>Redirecting to github.com/zhous</title>
     <meta http-equiv="refresh" content="0; URL=https://github.com/zhous">
     <link href="https://github.com/zhous" rel="me">
+    <link href="https://daism.io" rel="me">
     <link href="https://daotodon.me/@zhous98" rel="me">
   </head>
   <body style="margin: 0; padding: 0">
