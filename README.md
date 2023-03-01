@@ -19,8 +19,6 @@
         padding: 0;
         color: white;
       "
-    >
-      github.com/zhous
-    </a>
+    >This URL is redirecting to github.com/zhous now.</a>
   </body>
 </html>
